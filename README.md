@@ -46,10 +46,16 @@ Cumulative T-Test
 
 ![Cumulative T-Test](https://user-images.githubusercontent.com/100809925/173866765-d84546ed-7045-4a2c-afa5-66681a3309bd.jpeg)
 
+The T-Test for suspension coils of all the lots show that they are not statistically significant from the normal distribution and normality is assumed.  There is a 95% confidence interval for the mean.
+
 
 T-Test Lot1
 
 ![Lot 1 T-Test](https://user-images.githubusercontent.com/100809925/173866822-18a832b0-41aa-4d90-bc09-a6f97af7b6df.jpeg)
+
+
+The T-Test for suspension coils of Lot1 shows that they are not statistically different from the mean and normality is assumed.  There is a 95% confidence interval for the mean.
+
 
 
 T-Test Lot2
@@ -57,6 +63,11 @@ T-Test Lot2
 ![Updated Lot2 ](https://user-images.githubusercontent.com/100809925/173867914-8afef235-4c83-462d-bdf7-dfc9a819e52f.jpeg)
 
 
+The T-Test for suspension coils of Lot2 shows that they are not statistically different from the mean and normality is assumed.  There is a 95% confidence interval for the mean.
+
+
 T-Test Lot3
 ![Updated Lot3](https://user-images.githubusercontent.com/100809925/173867963-df17183d-ef68-4975-ab9f-0f03656c2fb2.jpeg)
+
+The T-Test for suspension coils of Lot3 is statistically significant from the normal distribution so we are unable to assume normality from the normal distribution.  There is a 95% confidence interval for the mean.
 
