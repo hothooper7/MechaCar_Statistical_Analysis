@@ -21,3 +21,19 @@ The distribution shows that the dataset fits within normal parameters, and we ca
   - Vehicle length and ground clearance represent non-random amounts of variance as applied to the MPG values.
 2. Is the slope of the linear model considered to be zero? Why or why not?
   - The slope of the linear model is not considered to be zero since the p-value of 5.35e-11 is far lower than the barometer of .05.  Since this is the case, the null hypothesis must be rejected and the relationship to MPG is affected by more than randomness.  
+3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+  - The R-squared value is .71 which indicates that the model predicts MPG of MechaCar prototypes with 71% effectiveness.  This is not perfect, but we can say that the model is relatively effective.
+
+## Summary Statistics on Suspension Coils
+
+The following images are a total summary and lot summary that show:
+  - The suspension coil’s PSI continuous variable across all manufacturing lots.
+  - The PSI metrics for each lot: mean, median, variance, and standard deviation.
+
+Total Summary
+![Total Summary](https://user-images.githubusercontent.com/100809925/173854445-31b83e2a-6fdc-4c09-937a-ef3e5ce3ea39.jpeg)
+
+Lot Summary
+![Lot summary](https://user-images.githubusercontent.com/100809925/173854502-7f9acede-cb7d-44a0-a92a-67ab6322cc19.jpeg)
+
+
