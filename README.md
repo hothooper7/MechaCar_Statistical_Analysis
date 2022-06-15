@@ -74,3 +74,19 @@ T-Test Lot3
 The T-Test for suspension coils of Lot3 is statistically significant from the normal distribution and we are unable to assume normality from the normal distribution.  There is a 95% confidence interval for the mean.
 
 
+## Study Design: MechaCar vs Competition
+
+MPG of vehicles is becoming of paramount importance when consumers are deciding which type of vehicle to purchase.  Rising gas prices and the ability to purchase electric vehicles are important factors to consider when buying a vehicle.  Comparing the MechaCar against the competition with regards to MPG is a great starting place to determine what changes may be necessary with production and design.  Below are four questions that would help with decision making.
+
+1. What metric or metrics are you going to test?
+  - Testing MPG / highway fuel efficiency is a great place to start our analysis.
+
+2. What is the null hypothesis or alternative hypothesis?
+  - MechaCar is not as efficient on an MPG / fuel efficiency as other vehicles.
+
+3. What statistical test would you use to test the hypothesis? And why?
+  - Multiple linear regression and T-Tests are a great place to test the hypothesis since both are used for comparing metrics.
+
+4. What data is needed to run the statistical test?
+  - All data on MPG and fuel efficiency could be used to run the test.  Specifically checking the competition of MechaCar would narrow down the data and help us make more accurate assumptions.
+ 
