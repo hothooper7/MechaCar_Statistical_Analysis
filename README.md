@@ -42,4 +42,22 @@ The overall variance of the suspension coils does not exceed 100 pounds per squa
 
 Below are images and summaries of a cumulative T-Test as well as a T-Test for each lot with regard to suspension coils.  
 
+Cumulative T-Test
+
+![Cumulative T-Test](https://user-images.githubusercontent.com/100809925/173866765-d84546ed-7045-4a2c-afa5-66681a3309bd.jpeg)
+
+
+T-Test Lot1
+
+![Lot 1 T-Test](https://user-images.githubusercontent.com/100809925/173866822-18a832b0-41aa-4d90-bc09-a6f97af7b6df.jpeg)
+
+
+T-Test Lot2
+
+![Lot2 T-Test](https://user-images.githubusercontent.com/100809925/173866918-794618be-3687-43c5-bdd4-bd852a67d443.jpeg)
+
+
+T-Test Lot3
+
+![Lot 3 T-Test](https://user-images.githubusercontent.com/100809925/173866957-2f17ece9-c554-47c1-a79c-cb5f0636a786.jpeg)
 
