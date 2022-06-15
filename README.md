@@ -54,10 +54,9 @@ T-Test Lot1
 
 T-Test Lot2
 
-![Lot2 T-Test](https://user-images.githubusercontent.com/100809925/173866918-794618be-3687-43c5-bdd4-bd852a67d443.jpeg)
+![Updated Lot2 ](https://user-images.githubusercontent.com/100809925/173867914-8afef235-4c83-462d-bdf7-dfc9a819e52f.jpeg)
 
 
 T-Test Lot3
-
-![Lot 3 T-Test](https://user-images.githubusercontent.com/100809925/173866957-2f17ece9-c554-47c1-a79c-cb5f0636a786.jpeg)
+![Updated Lot3](https://user-images.githubusercontent.com/100809925/173867963-df17183d-ef68-4975-ab9f-0f03656c2fb2.jpeg)
 
