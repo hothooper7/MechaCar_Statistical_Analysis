@@ -36,4 +36,8 @@ Total Summary
 Lot Summary
 ![Lot summary](https://user-images.githubusercontent.com/100809925/173854502-7f9acede-cb7d-44a0-a92a-67ab6322cc19.jpeg)
 
+The overall variance of the suspension coils does not exceed 100 pounds per square inch which meets specifications.  Upon closer review of each lot however, Lot3 is much higher than the acceptable threshold (170.29) and is the main contributing factor to the overall variance.  Lot3 should be immediately evaluated and improved to significantly improve overall variance.    
 
+## T-Tests on Suspension Coils
+
+Below are images and summaries of a cumulative T-Test as well as a T-Test for each lot with regard to suspension coils.  
